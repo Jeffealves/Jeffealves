@@ -1,8 +1,7 @@
 ## Olá meu nome é Jefferson Alves 👋
 
-- 🔭 Hoje eu trabalho com cibersegurança e automação residencial
-- 🌱 Sou estudante do curso de engenharia de software no IFPR (campus de Paranavaí)
-- 👯 Estou procurando colaborar em projetos de Cybersecurity e IA
+- 🔭 Hoje eu trabalho como analista de redes com foco em segurança eletronica 
+- 👯 Estou procurando colaborar em projetos cloud azure de Cybersecurity e AI
 - 🤔 Estou procurando ajuda com crescimento na carreira
-- 💬 Pergunte-me sobre segurança e automação resindecial
+- 💬 Pergunte-me sobre cloud azure, segurança e AI
 - 📫 Como chegar até mim: https://www.linkedin.com/in/jefferson-de-lima-alves-4a9a1218a/
