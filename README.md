@@ -1,6 +1,6 @@
 ## Olá meu nome é Jefferson Alves 👋
 
-- 🔭 Hoje eu trabalho como analista de redes com foco em segurança eletronica 
+- 🔭 Hoje eu trabalho como analista de redes/NOC em um ISP 
 - 👯 Estou procurando colaborar em projetos cloud azure de Cybersecurity e AI
 - 🤔 Estou procurando ajuda com crescimento na carreira
 - 💬 Pergunte-me sobre cloud azure, segurança e AI
